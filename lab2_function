@@ -10,4 +10,12 @@ v2 = sys.argv[2]
 print("Variable1 = " + v1)
 print("Variable2 = " + v2)
 print("The script and variables used are: " + str(sys.argv))
+
+howold()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
 ```
